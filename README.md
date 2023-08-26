@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🐨 I'm Alexey! I'm currently doing my phd at IM SB RAS. Beside that I'm working as a Data Scientist and I'm trying to learn all I can in this direction.
+
+📫 If you want to reach me:
+  - alexeyratushny@gmail.com
+  - https://www.linkedin.com/in/alexey-ratushny/
+
 <!--
 **al-ratushny/al-ratushny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
